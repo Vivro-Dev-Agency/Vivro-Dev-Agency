@@ -2,7 +2,7 @@
 
 ![VIVRO banner](github-cover.png)
 
-<img src="Logo.svg" width="96" alt="VIVRO logo" />
+<img src="logo.svg" width="96" alt="VIVRO logo" />
 
 # VIVRO
 
