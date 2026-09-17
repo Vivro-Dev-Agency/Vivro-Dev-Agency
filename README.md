@@ -82,9 +82,10 @@ Ongoing engineering partnerships for teams that need senior execution without hi
 
 | Project | Industry | Stack | Live |
 | --- | --- | --- | --- |
-| [**VERDANO**](https://pepiniere-verdano.vercel.app/) | Agriculture | Next.js, corporate B2B | [View](https://pepiniere-verdano.vercel.app/) |
-| [**Youssef Portfolio**](https://youssf.vercel.app/en) | Personal Brand | Next.js 16, GSAP, i18n | [View](https://youssf.vercel.app/en) |
-| [**Nexcent Landing Page**](https://wolf-root.github.io/Nexcent-Landing-Page/) | Marketing | Responsive landing, static | [View](https://wolf-root.github.io/Nexcent-Landing-Page/) |
+| [**STARADA**](https://starada.vivro.dev/)) | Luxury Mobility & Car Rental | Next.js 16 + React 19 + TypeScript + Tailwind CSS v4 + shadcn/ui + GSAP + Zod| [View](https://starada.vivro.dev/)) |
+| [**Atelier Meridian**](https://premium-architecture-studio.vivro.dev/) | Architecture & Interior Design | Next.js 16, GSAP | [View](https://premium-architecture-studio.vivro.dev/) |
+| [**VERDANO **](https://verdano.vivro.dev/) | Agriculture | Next.js 16, GSAP | [View](https://verdano.vivro.dev/) |
+| [**SEO Competitor**](https://seocompetitor.vivro.dev/) | SaaS / SEO Tools | Next.js 16, GSAP | [View](https://seocompetitor.vivro.dev/) |
 
 More case studies at **[vivro.dev/work](https://vivro.dev/work)**.
 
