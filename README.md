@@ -82,10 +82,10 @@ Ongoing engineering partnerships for teams that need senior execution without hi
 
 | Project | Industry | Stack | Live |
 | --- | --- | --- | --- |
-| [**STARADA**](https://starada.vivro.dev/)) | Luxury Mobility & Car Rental | Next.js 16 + React 19 + TypeScript + Tailwind CSS v4 + shadcn/ui + GSAP + Zod| [View](https://starada.vivro.dev/)) |
-| [**Atelier Meridian**](https://premium-architecture-studio.vivro.dev/) | Architecture & Interior Design | Next.js 16, GSAP | [View](https://premium-architecture-studio.vivro.dev/) |
-| [**VERDANO **](https://verdano.vivro.dev/) | Agriculture | Next.js 16, GSAP | [View](https://verdano.vivro.dev/) |
-| [**SEO Competitor**](https://seocompetitor.vivro.dev/) | SaaS / SEO Tools | Next.js 16, GSAP | [View](https://seocompetitor.vivro.dev/) |
+| [**STARADA**](https://starada.vivro.dev/)) | Luxury Mobility & Car Rental | Next.js 16 + TypeScript + shadcn/ui + GSAP | [View](https://starada.vivro.dev/)) |
+| [**Atelier Meridian**](https://premium-architecture-studio.vivro.dev/) | Architecture & Interior Design | Next.js 16 + TypeScript + shadcn/ui + GSAP | [View](https://premium-architecture-studio.vivro.dev/) |
+| [**VERDANO**](https://verdano.vivro.dev/) | Agriculture | Next.js 16 + TypeScript + shadcn/ui + motion | [View](https://verdano.vivro.dev/) |
+| [**SEO Competitor**](https://seocompetitor.vivro.dev/) | SaaS / SEO Tools | Next.js 16 + TypeScript + shadcn/ui + supabase + Gemini API | [View](https://seocompetitor.vivro.dev/) |
 
 More case studies at **[vivro.dev/work](https://vivro.dev/work)**.
 
